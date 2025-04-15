@@ -1,5 +1,6 @@
 # Dino Game using Mediapipe with Handgesture
 Example and basic project to understand mediapipe library with hand detection. 
+Suggest: Python 3.x 
 ## Setup
 1. **Clone repository:**
 ``` bash
